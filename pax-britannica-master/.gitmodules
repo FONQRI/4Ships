@@ -1,0 +1,6 @@
+[submodule "dokidoki"]
+	path = dokidoki
+	url = .
+[submodule "dokidoki-support"]
+	path = dokidoki-support
+	url = .
