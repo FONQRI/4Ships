@@ -18,8 +18,7 @@ After installing [Qt](https://qt.io) you only need to open project with [Qt crea
 
 ## Deployment
 
-I'm developing this application to be powered game engine developed on [Qt Graphics View Framework](https://doc.qt.io/qt-5/graphicsview.html) and a simple 4Ship game like [Cover art
-Pax Britannica](https://play.google.com/store/apps/details?id=de.swagner.paxbritannica&hl=en).
+I'm developing this application to be powered game engine developed on [Qt Graphics View Framework](https://doc.qt.io/qt-5/graphicsview.html) and a simple 4Ship game like [Pax Britannica](https://play.google.com/store/apps/details?id=de.swagner.paxbritannica&hl=en).
 
 ## Built With
 
